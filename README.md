@@ -69,6 +69,4 @@ python Rock\ Paper\ Scissors.py
 Have fun playing! 🎉
 Feel free to fork this and make it your own. 👾
 
----
 
-Let me know if you'd like the code fixed up as well or need help implementing any of the improvements!
